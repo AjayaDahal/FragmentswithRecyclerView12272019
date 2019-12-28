@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragments with RecyclerView 12272019</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_person_name">Please enter person name</string>
+    <string name="add_person">Add Person</string>
+    <string name="please_enter_phone_number">Please enter phone number</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
